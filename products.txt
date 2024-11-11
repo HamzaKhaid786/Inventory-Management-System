@@ -1,0 +1,9 @@
+{
+    "12": {
+        "product_id": "12",
+        "name": "H",
+        "category": "b",
+        "price": 23.0,
+        "stock_quantity": 36
+    }
+}
